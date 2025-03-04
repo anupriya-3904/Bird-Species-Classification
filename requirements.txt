@@ -1,0 +1,10 @@
+streamlit
+numpy
+tensorflow
+pandas
+folium
+streamlit-folium
+bs4
+requests
+pandas
+opencv-python
